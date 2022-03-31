@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+It is an ecommerce application to shopping from eBay website and its main purpose is to display the development hierarchy as well as to show clean code
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
